@@ -30,7 +30,7 @@ If you prefer a brief overview, see QUICKSTART.md. Otherwise, follow this guide 
 Choose one option:
 
 - Use this template on GitHub (recommended):
-  - Template URL: https://github.com/your-org/learning-platform-template
+  - Template URL: https://github.com/ritesh-firodiya/learning-platform-template
   - Click “Use this template” → Create a new repository under your GitHub account.
 
 - Using this monorepo locally (advanced):

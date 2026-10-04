@@ -4,7 +4,7 @@ Get a course live in minutes:
 
 1. Create your repo from the template
 
-- Use: https://github.com/your-org/learning-platform-template → “Use this template”
+- Use: https://github.com/ritesh-firodiya/learning-platform-template → “Use this template”
 - Or copy the learning-platform-template folder into a new GitHub repo
 
 2. Link your repo in the platform
